@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+#changelog
+gem 'github_changelog_generator', '~> 1.14', '>= 1.14.3'
+
+
 # Middleman
 gem 'middleman', '~>4.1.0'
 gem 'middleman-syntax', '~> 3.0.0'
